@@ -1,4 +1,4 @@
-    # Doug-Ms
+# Doug-Ms 🏀🕹️👾🖥️🌐♟️👨‍🚀🔭🚀☄️🧪🖋️🎨🌻🧙‍♂️🎲 
 
 ## Hello There🖖 I`m Doug Ms
 
@@ -16,7 +16,8 @@
 	<img align="center" alt="Doug-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
 	<img align="center" alt="Doug-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
     	<img align="center" alt="Doug-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg">
-   	 <img align="center" alt="Doug-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+   	<img align="center" alt="Doug-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+	<img align="center" alt="Doug-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
   <h2 dir="auto"></h2>
 </div>
 
