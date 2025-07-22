@@ -27,6 +27,12 @@
 </div>
 
 <div align="center">
+  <a href="https://open.spotify.com/user/20mk5qajnry30muuwdtfjuzlu">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=20mk5qajnry30muuwdtfjuzlu&count=5" alt="Spotify recently played"  />
+  </a>
+</div>
+
+<div align="center">
 
   <img src="https://raw.githubusercontent.com/Doug-Ms/Doug-Ms/output/snake.svg" alt="Snake animation" />
 
